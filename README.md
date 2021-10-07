@@ -4,7 +4,7 @@
 
   * 👩‍💻 I'm transitioning my career to the Front-end Development Area.
   * 💻 I have learned about HTML, CSS and JavaScript
-  * 📚 Studying Systems Analysis and Development
+  * 📚 Studying Systems Analysis and Development at Anhembi Morumbi (EaD)
 
 ## How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuellecarvalho/)](https://www.linkedin.com/in/emanuellecarvalho/)
