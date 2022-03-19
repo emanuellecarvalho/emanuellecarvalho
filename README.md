@@ -2,7 +2,7 @@
 
 ## I'm Emanuelle Carvalho
 
-  * 👩‍💻 I'm transitioning my career to the Front-end Development Area.
+  * 👩‍💻 I'm transitioning my career to the Front-end Development.
   * 💻 I have learned about HTML, CSS and JavaScript
   * 📚 Studying Systems Analysis and Development at Anhembi Morumbi (EaD)
 
