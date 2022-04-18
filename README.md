@@ -2,9 +2,10 @@
 
 ## I'm Emanuelle Carvalho
 
-  * 👩‍💻 I'm transitioning my career to the Front-end Development.
-  * 💻 I have learned about HTML, CSS and JavaScript
-  * 📚 Studying Systems Analysis and Development at Anhembi Morumbi (EaD)
+  * 👩‍💻 I'm in career transition my career to the Front-end Development.
+  * 💻 I’m currently learning JavaScript and React.js.
+  * 📚 An Systems Analysis and Development Student at Anhembi Morumbi (EaD)
+
 
 ## How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuellecarvalho/)](https://www.linkedin.com/in/emanuellecarvalho/)
@@ -18,9 +19,9 @@
 
 ## Coding Activity
 
-<!--
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuellecarvalho)](https://github.com/emanuellecarvalho/github-readme-stats)
--->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellecarvalho&layout=compact)](https://github.com/emanuellecarvalho/github-readme-stats)
 
