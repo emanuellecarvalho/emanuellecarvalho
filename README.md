@@ -2,7 +2,7 @@
 
 ## I'm Emanuelle Carvalho
 
-  * 👩‍💻 I'm in career transition my career to the Front-end Development.
+  * 👩‍💻 I'm in career transition to the Front-end Development.
   * 💻 I’m currently learning JavaScript and React.js.
   * 📚 An Systems Analysis and Development Student at Anhembi Morumbi (EaD)
 
@@ -20,8 +20,8 @@
 ## Coding Activity
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuellecarvalho)](https://github.com/emanuellecarvalho/github-readme-stats)
-
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuellecarvalho)](https://github.com/emanuellecarvalho/github-readme-stats)
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellecarvalho&layout=compact)](https://github.com/emanuellecarvalho/github-readme-stats)
 
