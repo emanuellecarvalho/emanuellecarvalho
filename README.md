@@ -2,7 +2,7 @@
 
 ## I'm Emanuelle Carvalho
 
-  * 👩‍💻 I'm in career transition to the Front-end Development.
+  * 👩‍💻 Intern in Software Development at Tribunal de Contas da União (TCU) 
   * 💻 I’m currently learning JavaScript and React.js.
   * 📚 An Systems Analysis and Development Student at Anhembi Morumbi (EaD)
 
