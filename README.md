@@ -2,7 +2,7 @@
 
 ## I'm Emanuelle Carvalho
 
-  * 👩‍💻 Software Developer Inter at Tribunal de Contas da União (TCU) 
+  * 👩‍💻 Software Developer Intern at Tribunal de Contas da União (TCU) 
   * 💻 I’m currently learning JavaScript and React.js.
   * 📚 An Systems Analysis and Development Student at Anhembi Morumbi (EaD)
 
