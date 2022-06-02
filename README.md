@@ -4,7 +4,7 @@
 
   * 👩‍💻 Software Developer Intern at Tribunal de Contas da União (TCU) 
   * 💻 I’m currently learning JavaScript and React.js.
-  * 📚 An Systems Analysis and Development Student at Anhembi Morumbi (EaD)
+  * 📚 Systems Analysis and Development Student at Anhembi Morumbi (EaD)
 
 
 ## How to reach me:
