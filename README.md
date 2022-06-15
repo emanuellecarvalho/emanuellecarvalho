@@ -3,7 +3,6 @@
 ## I'm Emanuelle Carvalho
 
   * 👩‍💻 Software Developer Intern at Mercado Livre
-  * 💻 I’m currently learning JavaScript and React.js.
   * 📚 Systems Analysis and Development Student at Anhembi Morumbi (EaD)
 
 
