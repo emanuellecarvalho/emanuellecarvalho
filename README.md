@@ -2,7 +2,7 @@
 
 ## I'm Emanuelle Carvalho
 
-  * 👩‍💻 Software Developer Intern at Mercado Livre
+  * 👩‍💻 Android Software Developer at Mercado Livre
   * 📚 Systems Analysis and Development Student at Anhembi Morumbi (EaD)
 
 
@@ -12,8 +12,12 @@
 
 ## My skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" height="40" width="40" align="center" style="max-width: 100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" height="40" width="40" align="center" style="max-width: 100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" height="40" width="40" align="center" style="max-width: 100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Css" height="40" width="40" align="center" style="max-width: 100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Html" height="40" width="40" align="center" style="max-width: 100%"></img>
+
+
 
 
 ## Coding Activity
