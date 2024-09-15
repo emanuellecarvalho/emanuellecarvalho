@@ -2,7 +2,7 @@
 
 ## I'm Emanuelle Carvalho
 
-  * 👩‍💻 Software Developer at Mercado Livre
+  * 👩‍💻 Software Engineer at Mercado Livre
   * 📚 Systems Analysis and Development Student at Anhembi Morumbi (EaD)
 
 
